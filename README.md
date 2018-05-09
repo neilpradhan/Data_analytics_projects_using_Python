@@ -1,7 +1,7 @@
 # Data_analytics_projects_using_Python
 Collection of my data analytics projects using Python code
 
-My projects are presented in the following order:
+My projects are presented as follows:
 
 1. Thanks giving diner analysis in USA
 
@@ -15,4 +15,3 @@ My projects are presented in the following order:
 
 6. CIA factbook SQL analytics
 
-7. Titanic Disaster probability and statistics
