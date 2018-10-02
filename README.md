@@ -15,3 +15,4 @@ My projects are presented as follows:
 
 6. CIA factbook SQL analytics
 
+7. Airplanes, Airlines and Airroutes visualisation from a particular region on map
